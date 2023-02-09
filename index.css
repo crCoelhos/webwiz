@@ -24,9 +24,11 @@ p{
 
 .menu{
     display: flex;
+    justify-content: space-between;
+    
+    padding-top: 25px;
     margin: 10px;
     margin-left: auto;
-    justify-content: space-between;
 }
 
 .menu-item{
@@ -54,7 +56,7 @@ img{
 }
 
 .conteudo{
-    margin: 50px 50px 150px 50px;
+    margin: 50px 50px 160px 50px;
     padding: 50px;
 }
 
