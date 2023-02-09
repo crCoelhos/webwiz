@@ -87,3 +87,10 @@ li.membros{
     list-style-type: none;
     margin: 30px;
 }
+
+
+/* about */
+
+.explicacao p{
+    margin-top: 50px;
+}
