@@ -54,7 +54,7 @@ img{
 }
 
 .conteudo{
-    margin: 50px;
+    margin: 50px 50px 150px 50px;
     padding: 50px;
 }
 
@@ -94,3 +94,5 @@ li.membros{
 .explicacao p{
     margin-top: 50px;
 }
+
+.conteudo{}
