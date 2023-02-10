@@ -15,6 +15,7 @@ p{
 }
 
 .navbar{
+    width: 100vw;
     display: flex;
     flex-direction: row;
     margin-top: 0;
@@ -97,4 +98,13 @@ li.membros{
     margin-top: 50px;
 }
 
-.conteudo{}
+
+/*  */
+@media (min-width: 768px){
+main{
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+    
+    }
